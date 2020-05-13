@@ -1,11 +1,11 @@
-class Person
+class Dog
 
-  def talk
-    puts "Hello World!"
+  def bark
+    puts "Woof!"
   end
 
-  def walk
-    puts "The person is walking"
+  def sit
+      puts "The Dog is sitting"
   end
 
 end
